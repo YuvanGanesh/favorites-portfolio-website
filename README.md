@@ -10,7 +10,7 @@ A simple portfolio-style website showcasing my top 3 favorite movies and my favo
 - HTML
 
 ## Demo
-View it live here: [GitHub Pages Link]()
+View it live here: [GitHub Pages Link](https://yuvanganesh.github.io/favorites-portfolio-website/)
 
 ## How to Use
 1. Clone the repository:https://github.com/YuvanGanesh/favorites-portfolio-website
